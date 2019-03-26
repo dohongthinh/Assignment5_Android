@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">COMP304_Assignment5</string>
+    <string-array name="cities">
+        <item>Toronto Downtown</item>
+        <item>Scarborough</item>
+        <item>North York</item>
+        <item>Mississauga</item>
+        <item>Oakville</item>
+    </string-array>
+
+    <string-array name="toronto_downtown_cinema">
+        <item>Cineplex Cinemas Yonge-Dundas </item>
+        <item>Scotiabank Theatre Toronto</item>
+        <item>Cineplex Cinemas Varsity</item>
+        <item>The Beach Cinemas</item>
+    </string-array>
+
+    <string-array name="scarborough_cinema">
+        <item>Cineplex Cinemas Scarborough</item>
+        <item>Cineplex Odeon Morningside Cinemas</item>
+        <item>Cineplex Odeon Eglinton Town Centre Cinemas</item>
+        <item>Cineplex Cinemas Fairview Mall</item>
+    </string-array>
+
+    <string-array name="mississauga_cinema">
+        <item>Cineplex Cinemas Mississauga</item>
+        <item>Cineplex Cinemas Courtney Par</item>
+        <item>Cineplex Cinemas Winston Churchill</item>
+        <item>Cineplex Cinemas Queensway</item>
+    </string-array>
+
+    <string-array name="northyork_cinema">
+        <item>Cineplex Cinemas Empress Walk</item>
+        <item>Cineplex Cinemas Yorkdale</item>
+        <item>Cineplex VIP Cinemas Don Mills</item>
+        <item>Cineplex Cinemas Yonge-Eglinton</item>
+    </string-array>
+
+    <string-array name="oakville_cinema">
+        <item>Cineplex Cinemas Oakville</item>
+        <item>SilverCity Burlington Cinemas</item>
+        <item>Cineplex Cinemas Milton</item>
+        <item>Cineplex Cinemas Courtney Park</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
